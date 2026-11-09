@@ -1,0 +1,6 @@
+# Search engine crawling instructions
+
+User-agent: *
+Allow: /
+
+Sitemap: https://AmazinglySweetBakery.com/sitemap.xml
